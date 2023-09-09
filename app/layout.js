@@ -1,3 +1,6 @@
+// main application page of the app
+// add components that stay consistent throughout the app
+
 import './globals.css'
 import { Inter } from 'next/font/google'
 
