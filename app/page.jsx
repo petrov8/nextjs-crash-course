@@ -1,4 +1,4 @@
-import React from 'react'
+import Feed from '@components/Feed'
 
 export default function Home() {
   return (
@@ -15,6 +15,9 @@ export default function Home() {
                 creative prompts.
             </p>
         </h1>
+
+        <Feed />
+        
     </section>
   )
 }
